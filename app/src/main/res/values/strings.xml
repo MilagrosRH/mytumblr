@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mytumblr</string>
+    <string name="title_activity_mytumb_login">MytumbLoginActivity</string>
+</resources>
